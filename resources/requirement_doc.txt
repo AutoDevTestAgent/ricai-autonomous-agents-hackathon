@@ -1,0 +1,1 @@
+﻿Given code is a Flask code in python backend. The start_recording and stop_recording methods should acccordingly start audio data stream and stop it after recording is finished. The listed app routes should return correct templates. The state of recordings/data should remain throughout all the app work.

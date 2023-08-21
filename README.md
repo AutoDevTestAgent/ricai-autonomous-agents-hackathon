@@ -39,3 +39,5 @@ For the testing example, I used one of my old repos: [samole repo](https://githu
 Presentation: [PDF slides](ricai_autonomous_agents.pdf)
 <br> 
 Video: [YouTube video](https://youtu.be/9mCSgtaFG1k)
+<br>
+Agent setup: [docx file](resources/agent%20setup%20document.docx)
