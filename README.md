@@ -38,4 +38,4 @@ For the testing example, I used one of my old repos: [samole repo](https://githu
 
 Presentation: [PDF slides](ricai_autonomous_agents.pdf)
 <br> 
-Video: 
+Video: [YouTube video](https://youtu.be/9mCSgtaFG1k)
