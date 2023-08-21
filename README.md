@@ -36,6 +36,6 @@ For the testing example, I used one of my old repos: [samole repo](https://githu
 
 ### Other links
 
-Presentation:
+Presentation: [PDF slides](ricai_autonomous_agents.pdf)
 <br> 
 Video: 
