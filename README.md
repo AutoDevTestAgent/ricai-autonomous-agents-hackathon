@@ -26,6 +26,8 @@ The following was implemented:
 2. Unit test generation tool: [github repo](https://github.com/liskovich/ricai_unittestgen_tool/tree/master)
 3. Overall SuperAGI agent with integrates tools (mentioned above) + additional steps for report sending: [github repo](https://github.com/liskovich/ricai_superagi_instance/tree/main)
 
+For the testing example, I used one of my old repos: [samole repo](https://github.com/liskovich/CV_generator)
+
 ### Tech used
 
 1. SuperAGI agent framework for the core
