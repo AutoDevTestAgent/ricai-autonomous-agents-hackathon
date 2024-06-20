@@ -1,8 +1,6 @@
 # Team RicAI 
 
 <b>Team members:</b> Ricards Liskovskis
-<br>
-<b>Discord:</b> Lisais83
 
 ## Autonomous Agents Hackathon submission
 
