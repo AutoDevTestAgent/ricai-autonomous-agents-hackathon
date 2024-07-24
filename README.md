@@ -20,11 +20,9 @@ The overall vision of such tool would be to:
 
 The following was implemented:
 
-1. Code storage and retrieval tool: [github repo](https://github.com/liskovich/ricai_codestore_tool/tree/master)
-2. Unit test generation tool: [github repo](https://github.com/liskovich/ricai_unittestgen_tool/tree/master)
-3. Overall SuperAGI agent with integrates tools (mentioned above) + additional steps for report sending: [github repo](https://github.com/liskovich/ricai_superagi_instance/tree/main)
-
-For the testing example, I used one of my old repos: [sample repo](https://github.com/liskovich/CV_generator)
+1. Code storage and retrieval tool: [github repo](https://github.com/AutoDevTestAgent/ricai_unittestgen_tool/tree/master)
+2. Unit test generation tool: [github repo](https://github.com/AutoDevTestAgent/ricai_unittestgen_tool/tree/master)
+3. Overall SuperAGI agent with integrates tools (mentioned above) + additional steps for report sending: [github repo](https://github.com/AutoDevTestAgent/ricai_superagi_instance/tree/main)
 
 ### Tech used
 
